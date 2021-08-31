@@ -2,7 +2,6 @@
 # разработанных в рамках домашнего задания первых трех уроков.
 
 import timeit
-
 from random import random
 
 A = 50
